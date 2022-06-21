@@ -1,40 +1,80 @@
 [[Metal_LLVM_Tools]]
 arch = "x86_64"
-git-tree-sha1 = "1f0b8c881bd8a7bac1b4250c047f1e3a44956932"
+git-tree-sha1 = "94f57a44ca0dc04ad96ac050ce8c57ff7b6c1f1e"
 lazy = true
 llvm_version = "13"
 os = "macos"
 
     [[Metal_LLVM_Tools.download]]
-    sha256 = "b47f4e49c6b4edf034cefe20387f30b52c273614847ea22034431bdbea2cbd5a"
-    url = "https://github.com/JuliaBinaryWrappers/Metal_LLVM_Tools_jll.jl/releases/download/Metal_LLVM_Tools-v0.3.0+0/Metal_LLVM_Tools.v0.3.0.x86_64-apple-darwin-llvm_version+13.tar.gz"
+    sha256 = "1bd816c5120c39c2846792bdb041e2e1631c68452d4edf6a73c1b65f2f82d468"
+    url = "https://github.com/JuliaBinaryWrappers/Metal_LLVM_Tools_jll.jl/releases/download/Metal_LLVM_Tools-v0.3.0+1/Metal_LLVM_Tools.v0.3.0.x86_64-apple-darwin-llvm_version+13.tar.gz"
 [[Metal_LLVM_Tools]]
 arch = "aarch64"
-git-tree-sha1 = "1206ea217c38e58a63f52be1b6d1371983e68c32"
+git-tree-sha1 = "0ec307395e9dd683100b6ecbb14963c6ddd232e6"
 lazy = true
 llvm_version = "13"
 os = "macos"
 
     [[Metal_LLVM_Tools.download]]
-    sha256 = "4880310819b4d6cea0669e207feeb72a0a42d375bc13ebdcabc20522d0a862cd"
-    url = "https://github.com/JuliaBinaryWrappers/Metal_LLVM_Tools_jll.jl/releases/download/Metal_LLVM_Tools-v0.3.0+0/Metal_LLVM_Tools.v0.3.0.aarch64-apple-darwin-llvm_version+13.tar.gz"
+    sha256 = "946cb948546eb14f0b524804bd2be51b48271b32b18b8e729261fd86c913e6ea"
+    url = "https://github.com/JuliaBinaryWrappers/Metal_LLVM_Tools_jll.jl/releases/download/Metal_LLVM_Tools-v0.3.0+1/Metal_LLVM_Tools.v0.3.0.aarch64-apple-darwin-llvm_version+13.tar.gz"
 [[Metal_LLVM_Tools]]
 arch = "x86_64"
-git-tree-sha1 = "e5231afd49ba27a779ded9616b109cb1d29271e9"
+git-tree-sha1 = "5b760bb1454b67a5a4894c1c7dafed48d0fae0d0"
 lazy = true
 llvm_version = "13.asserts"
 os = "macos"
 
     [[Metal_LLVM_Tools.download]]
-    sha256 = "b0d5e853a2232dab420d01aa36b55f35d422fe26c71f4b62dc5bf88f58e8fdbc"
-    url = "https://github.com/JuliaBinaryWrappers/Metal_LLVM_Tools_jll.jl/releases/download/Metal_LLVM_Tools-v0.3.0+0/Metal_LLVM_Tools.v0.3.0.x86_64-apple-darwin-llvm_version+13.asserts.tar.gz"
+    sha256 = "cc1f9bf4c0f23d0cd6f156ab1fbec9ac20794186c2329b8ec4c57c2d21450bec"
+    url = "https://github.com/JuliaBinaryWrappers/Metal_LLVM_Tools_jll.jl/releases/download/Metal_LLVM_Tools-v0.3.0+1/Metal_LLVM_Tools.v0.3.0.x86_64-apple-darwin-llvm_version+13.asserts.tar.gz"
 [[Metal_LLVM_Tools]]
 arch = "aarch64"
-git-tree-sha1 = "6422da4a79bd133ff44d0d62194f26c016f75100"
+git-tree-sha1 = "d27e1f8257c3a297961e5d4a8bc3794f0cad4363"
 lazy = true
 llvm_version = "13.asserts"
 os = "macos"
 
     [[Metal_LLVM_Tools.download]]
-    sha256 = "c2a9c7377ea0777e2f19f811e39b7ba4930ff20745fa56940ee6d99635515291"
-    url = "https://github.com/JuliaBinaryWrappers/Metal_LLVM_Tools_jll.jl/releases/download/Metal_LLVM_Tools-v0.3.0+0/Metal_LLVM_Tools.v0.3.0.aarch64-apple-darwin-llvm_version+13.asserts.tar.gz"
+    sha256 = "630f1b0f41b1ab5a57f26e41bdc768a43421279d7bc0e93d44427972b0f0098f"
+    url = "https://github.com/JuliaBinaryWrappers/Metal_LLVM_Tools_jll.jl/releases/download/Metal_LLVM_Tools-v0.3.0+1/Metal_LLVM_Tools.v0.3.0.aarch64-apple-darwin-llvm_version+13.asserts.tar.gz"
+[[Metal_LLVM_Tools]]
+arch = "x86_64"
+git-tree-sha1 = "d29fe9d9a8da4cc92f8f5228e1dd485e390382f0"
+lazy = true
+llvm_version = "14"
+os = "macos"
+
+    [[Metal_LLVM_Tools.download]]
+    sha256 = "5c321e5460656b19327d4a2b2374bb6b7634d637f3186ad7a46c0eaf170bfebb"
+    url = "https://github.com/JuliaBinaryWrappers/Metal_LLVM_Tools_jll.jl/releases/download/Metal_LLVM_Tools-v0.3.0+1/Metal_LLVM_Tools.v0.3.0.x86_64-apple-darwin-llvm_version+14.tar.gz"
+[[Metal_LLVM_Tools]]
+arch = "aarch64"
+git-tree-sha1 = "7b35011444b4345ca2906beffe551f8cbb5eaba6"
+lazy = true
+llvm_version = "14"
+os = "macos"
+
+    [[Metal_LLVM_Tools.download]]
+    sha256 = "7101d69909525f96c14660437dcc3498697ad51c38dc260d8015b5148bc21de1"
+    url = "https://github.com/JuliaBinaryWrappers/Metal_LLVM_Tools_jll.jl/releases/download/Metal_LLVM_Tools-v0.3.0+1/Metal_LLVM_Tools.v0.3.0.aarch64-apple-darwin-llvm_version+14.tar.gz"
+[[Metal_LLVM_Tools]]
+arch = "x86_64"
+git-tree-sha1 = "fe9675683bd87d1347b9dad90738d4a346c6d045"
+lazy = true
+llvm_version = "14.asserts"
+os = "macos"
+
+    [[Metal_LLVM_Tools.download]]
+    sha256 = "f117236ada3996cb50feb62dc36379e2b2d881e6b99cbebfb9e2c6e517b6a515"
+    url = "https://github.com/JuliaBinaryWrappers/Metal_LLVM_Tools_jll.jl/releases/download/Metal_LLVM_Tools-v0.3.0+1/Metal_LLVM_Tools.v0.3.0.x86_64-apple-darwin-llvm_version+14.asserts.tar.gz"
+[[Metal_LLVM_Tools]]
+arch = "aarch64"
+git-tree-sha1 = "86445f023b3f9090a9415926a92850c3606f019c"
+lazy = true
+llvm_version = "14.asserts"
+os = "macos"
+
+    [[Metal_LLVM_Tools.download]]
+    sha256 = "f654345282a5fcbbad9ed0518315290c715e92674473f1dad3939a773d695a0d"
+    url = "https://github.com/JuliaBinaryWrappers/Metal_LLVM_Tools_jll.jl/releases/download/Metal_LLVM_Tools-v0.3.0+1/Metal_LLVM_Tools.v0.3.0.aarch64-apple-darwin-llvm_version+14.asserts.tar.gz"
